@@ -1,0 +1,3 @@
+Use following command to start and stop rds instance
+./rds start database-1
+./rds stop database-1
