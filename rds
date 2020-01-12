@@ -1,0 +1,2 @@
+#!/bin/bash
+aws rds $1-db-instance   --region us-east-2  --db-instance-identifier $2
